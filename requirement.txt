@@ -1,0 +1,15 @@
+opencv-python
+numpy
+pillow
+tkinter
+pyttsx3
+pywhatkit
+speechrecognition
+pyaudio
+wikipedia
+pyjokes
+requests
+pyautogui
+datetime
+winshell
+tensorflow
