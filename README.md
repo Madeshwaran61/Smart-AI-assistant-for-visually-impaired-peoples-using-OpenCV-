@@ -42,10 +42,9 @@ Machine Learning (if used): TensorFlow/PyTorch (for object detection)
 
 Smart-AI-Assistant/
 │-- assistant.py  # Main AI assistant logic
-│-- gui.py  # GUI interface
+│-- assistant_gui.py  # GUI interface
 │-- object_detection.py  # OpenCV-based object detection
 │-- weather.py  # Fetches weather updates
-│-- speech_recognition.py  # Handles voice commands
 │-- requirements.txt  # Dependencies
 │-- README.md  # Documentation
 
